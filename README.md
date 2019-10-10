@@ -13,7 +13,7 @@ Top 10 fysik lære
 - Tobias
 - Jeff2
 - Obama
-- [Obama needs your help, please put your credit card nummber here](https://www.google.com)
+- [Obama needs your help, to become #1 victory royale in fornite but he needs your credit card info ->]http://fornitevbucks.imvuguru.com/)
 
 
 
