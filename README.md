@@ -1,3 +1,3 @@
 # tongo.github.io
 
-Hej Rasmus, sam hyde er den bedste fysik lære 
+Hej Rasmus, sam hyde er den yndlings lære 
