@@ -13,5 +13,7 @@ Top 10 fysik lære
 - Tobias
 - Jeff2
 - Obama
+[I'm an inline-style link](https://www.google.com)
+
 
 
