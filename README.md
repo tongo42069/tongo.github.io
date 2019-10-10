@@ -13,7 +13,6 @@ Top 10 fysik lære
 - Tobias
 - Jeff2
 - Obama
-- [Obama needs your help](http://fornitevbucks.imvuguru.com/)
-
+- [GET FREE VBUCKS DATE HOT MILFS!!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
