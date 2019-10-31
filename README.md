@@ -25,17 +25,6 @@ Top 10 fysik lære
   <source src="mov_bbb.ogg" type="video/ogg">
   Your browser does not support HTML5 video.
 </video>
-
-<!DOCTYPE html><html><head>
-    <script src="p5.js"></script>
-    <script src="p5.dom.min.js"></script>
-    <script src="p5.sound.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8">
-
-  </head>
-  <body>
-    <script src="sketch.js"></script>
   
 
 </body></html>
